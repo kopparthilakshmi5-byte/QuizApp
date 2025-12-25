@@ -29,3 +29,8 @@ calculates the score, and displays the final result.
 5. Increase score if answer is correct
 6. Repeat for all questions
 7. Display final score
+
+## How to Run
+1.Compile:
+  '''bash
+  javac QuizApp.java
